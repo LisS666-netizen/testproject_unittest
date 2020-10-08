@@ -1,0 +1,72 @@
+1602064016067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.suctlXJSNSzZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064043341	Marionette	INFO	Listening on port 45477
+1602064043567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1602064076465	Marionette	INFO	Stopped listening on port 45477
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602064165082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OTv4NZ9riS0h"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064176458	Marionette	INFO	Listening on port 37645
+1602064176686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1602064197853	Marionette	INFO	Stopped listening on port 37645
+1602064258652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q7BrUn0RZsqQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064271779	Marionette	INFO	Listening on port 33285
+1602064271902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1602064306797	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1602064354876	Marionette	INFO	Stopped listening on port 33285
+1602064412256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vt5waE6swD7R"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064427471	Marionette	INFO	Listening on port 41251
+1602064427498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1602064454385	Marionette	INFO	Stopped listening on port 41251
+1602064456057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cV6QFAUhQWVl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064462297	Marionette	INFO	Listening on port 35941
+1602064462377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1602064663395	Marionette	INFO	Stopped listening on port 35941
